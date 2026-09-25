@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-discogs",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Discogs MCP — music release / artist / label database",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-551165d93a845e70448fbf310a75228242b80f44ee07375427d502d13cee92b3",
-    "sourceCommit": "76aa8f5d9b5dc2f665563030647c68e661478864"
+    "sourceHash": "v1-7fdb64a54c02dff6254585bd74b1908cc069e05bfd1fcad8791e4e3226ec5c0c",
+    "sourceCommit": "4fa4c64448be06f4a2ee4cee19f756f3558a7cad"
   }
 }
