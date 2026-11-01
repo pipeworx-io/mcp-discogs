@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-discogs",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Discogs MCP — music release / artist / label database",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "discogs",
     "gatewaySlug": "discogs",
-    "sourceHash": "v1-d4c53766fda6669c2a6611c733ea5740b4116da550d0b0e39c53bcfd59554af7",
-    "sourceCommit": "0b3faaa4d85299a961dd86dea75a0f0e1dad280c"
+    "sourceHash": "v1-a5abd1acfe7ba4743bfd91964fc946195941f9e555b62d714ac0d2c48b57549e",
+    "sourceCommit": "e707a4bb6209f432984c0a83bf64b3138130db89"
   }
 }
